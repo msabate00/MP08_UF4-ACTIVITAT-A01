@@ -15,6 +15,9 @@ and open the template in the editor.
         function msm_Funcion1() {
             echo "Primera funcion";
         }
+        function msm_Funcion2() {
+            echo "Segunda funcion";
+        }
         ?>
     </body>
 </html>
