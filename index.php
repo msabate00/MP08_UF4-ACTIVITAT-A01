@@ -21,6 +21,9 @@ and open the template in the editor.
         function msm_Funcion3() {
             echo "Tercera funcion";
         }
+        function msm_especial() {
+           
+        }
         ?>
     </body>
 </html>
