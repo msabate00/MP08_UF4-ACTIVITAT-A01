@@ -23,6 +23,8 @@ and open the template in the editor.
         }
         function msm_especial() {
             echo "Marti Sabaté";
+            echo "Selena Catena";
+            echo "Gerard Martinez";
         }
         ?>
     </body>
