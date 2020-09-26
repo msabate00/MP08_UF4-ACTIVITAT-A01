@@ -22,7 +22,7 @@ and open the template in the editor.
             echo "Tercera funcion";
         }
         function msm_especial() {
-           
+            echo "Marti Sabaté";
         }
         ?>
     </body>
